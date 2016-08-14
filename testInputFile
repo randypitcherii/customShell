@@ -1,0 +1,1 @@
+cat ./test-shell/file1.cc | grep malloc | grep char
